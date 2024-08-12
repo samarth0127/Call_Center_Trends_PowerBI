@@ -1,10 +1,10 @@
 # Power-BI-Project
 
-Title: Call Centre Trends Dashboard
+**Title: Call Centre Trends Dashboard**
 
-Description: A Power BI dashboard showcasing call centre trends, featuring:
+**Description: A Power BI dashboard showcasing call centre trends**
 
-Features:
+**Features:**
 
 - Interactive filters for agents and topics
 - Visualizations for call volume, answer rate, resolution rate, and average speed of answer
@@ -13,7 +13,7 @@ Features:
 
 Technologies Used: Power BI, Microsoft Excel
 
-Instructions:
+**Instructions:**
 
 1. Download the Power BI file (.pbix)
 2. Open in Power BI Desktop or Service
