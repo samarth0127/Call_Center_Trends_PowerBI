@@ -1,4 +1,4 @@
-# Power-BI-Project
+# Call Center Trends with Power BI
 
 **Title: Call Centre Trends Dashboard**
 
